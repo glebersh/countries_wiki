@@ -40,7 +40,7 @@ const CountriesList = () => {
             return (
               <Card
                 key={country.name}
-                onClick={() => navigate(`/country/${country.name}`)}
+                onClick={() => navigate(`/countries-wiki/country/${country.name}`)}
                 {...countryInfo}
               />
             );
