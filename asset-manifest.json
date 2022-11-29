@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/countries-wiki/static/css/main.33a2608b.css",
-    "main.js": "/countries-wiki/static/js/main.0eea3cd8.js",
-    "index.html": "/countries-wiki/index.html",
-    "main.33a2608b.css.map": "/countries-wiki/static/css/main.33a2608b.css.map",
-    "main.0eea3cd8.js.map": "/countries-wiki/static/js/main.0eea3cd8.js.map"
+    "main.css": "/countries_wiki/static/css/main.33a2608b.css",
+    "main.js": "/countries_wiki/static/js/main.c27fcda8.js",
+    "index.html": "/countries_wiki/index.html",
+    "main.33a2608b.css.map": "/countries_wiki/static/css/main.33a2608b.css.map",
+    "main.c27fcda8.js.map": "/countries_wiki/static/js/main.c27fcda8.js.map"
   },
   "entrypoints": [
     "static/css/main.33a2608b.css",
-    "static/js/main.0eea3cd8.js"
+    "static/js/main.c27fcda8.js"
   ]
 }
