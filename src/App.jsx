@@ -14,7 +14,7 @@ function App() {
       <Main>
         <Routes>
           <Route path="countries_wiki/" element={<HomePage />} />
-          <Route path="/countries_wiki/country/:name" element={<Details />} />
+          <Route path="countries_wiki/country/:name" element={<Details />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Main>

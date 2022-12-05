@@ -1,7 +1,7 @@
 {
   "name": "countries_wiki",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/countries-wiki",
+  "homepage": "https://gitname.github.io/countries_wiki",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
