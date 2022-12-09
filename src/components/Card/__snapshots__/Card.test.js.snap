@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component Card snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <article
+        class="sc-bcXHqe ipQmHr"
+      >
+        <img
+          alt="Brasil"
+          class="sc-gswNZR cfWXzP"
+          src="https://via.placeholder.com/300.png"
+        />
+        <div
+          class="sc-dkrFOg hXwiuy"
+        >
+          <h3
+            class="sc-hLBbgP krmYgr"
+          >
+            Brasil
+          </h3>
+          <ul
+            class="sc-eDvSVe juJjhm"
+          >
+            <li
+              class="sc-jSUZER jhitMP"
+            >
+              <b>
+                Population
+                :
+              </b>
+               
+              214047375
+            </li>
+            <li
+              class="sc-jSUZER jhitMP"
+            >
+              <b>
+                Region
+                :
+              </b>
+               
+              Latin Amerika
+            </li>
+            <li
+              class="sc-jSUZER jhitMP"
+            >
+              <b>
+                Capital
+                :
+              </b>
+               
+              Brasília 
+            </li>
+          </ul>
+        </div>
+      </article>
+    </div>
+  </body>,
+  "container": <div>
+    <article
+      class="sc-bcXHqe ipQmHr"
+    >
+      <img
+        alt="Brasil"
+        class="sc-gswNZR cfWXzP"
+        src="https://via.placeholder.com/300.png"
+      />
+      <div
+        class="sc-dkrFOg hXwiuy"
+      >
+        <h3
+          class="sc-hLBbgP krmYgr"
+        >
+          Brasil
+        </h3>
+        <ul
+          class="sc-eDvSVe juJjhm"
+        >
+          <li
+            class="sc-jSUZER jhitMP"
+          >
+            <b>
+              Population
+              :
+            </b>
+             
+            214047375
+          </li>
+          <li
+            class="sc-jSUZER jhitMP"
+          >
+            <b>
+              Region
+              :
+            </b>
+             
+            Latin Amerika
+          </li>
+          <li
+            class="sc-jSUZER jhitMP"
+          >
+            <b>
+              Capital
+              :
+            </b>
+             
+            Brasília 
+          </li>
+        </ul>
+      </div>
+    </article>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

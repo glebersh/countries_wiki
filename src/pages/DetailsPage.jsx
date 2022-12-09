@@ -10,7 +10,7 @@ export const Details = () => {
   const navigate = useNavigate();
 
   return (
-    <div>
+    <div className='country-container'>
       <Button onClick={() => navigate(-1)}>
         <IoArrowBack /> Back
       </Button>
