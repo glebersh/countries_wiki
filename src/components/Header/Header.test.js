@@ -21,6 +21,13 @@ describe('Header component', () => {
     expect(screen.getByRole('link')).toBeInTheDocument();
   });
 
+  it('Card snapshot', () => {
+    const header = render(<BrowserRouter>
+      <Header />
+    </BrowserRouter>);
+    expect(header).toMatchSnapshot();
+  });
+
   it('Header Link dispatch triggering', () => {
     const dispatch = jest.fn();
     mockUseDispatch.mockReturnValue(dispatch);

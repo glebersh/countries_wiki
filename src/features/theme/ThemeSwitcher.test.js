@@ -28,6 +28,14 @@ describe('ThemeSwitcher component', () => {
     expect(screen.getByTestId('theme-switcher')).toBeInTheDocument();
   });
 
+  it('Card snapshot', () => {
+    render(<BrowserRouter>
+      <Header />
+    </BrowserRouter>);
+    const themeSwitcher = screen.getByTestId('theme-switcher');
+    expect(themeSwitcher).toMatchSnapshot();
+  });
+
   it('ThemeSwitcher click', () => {
     const dispatch = jest.fn();
     mockUseDispatch.mockReturnValue(dispatch);

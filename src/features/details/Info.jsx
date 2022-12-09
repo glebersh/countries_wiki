@@ -109,7 +109,7 @@ export const Info = (props) => {
     <Wrapper>
       <InfoImage src={flag} alt={name} />
 
-      <div>
+      <div data-testid='country-info'>
         <InfoTitle>{name}</InfoTitle>
         <ListGroup>
           <List>
@@ -157,7 +157,7 @@ export const Info = (props) => {
           ) : (
             <TagGroup>
               {neighbors.map((countryName) => (
-                <Tag key={countryName} onClick={() => push(`/country/${countryName}`)}>
+                <Tag key={countryName} onClick={() => push(`/countries_wiki/country/${countryName}`)}>
                   {countryName}
                 </Tag>
               ))}

@@ -1,0 +1,334 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Info component Info snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="sc-bcXHqe kOecqs"
+      >
+        <img
+          alt="Brasil"
+          class="sc-gswNZR iDRsIg"
+          src="https://via.placeholder.com/300.png"
+        />
+        <div
+          data-testid="country-info"
+        >
+          <h1
+            class="sc-dkrFOg bkwYfw"
+          >
+            Brasil
+          </h1>
+          <div
+            class="sc-hLBbgP kCEmcI"
+          >
+            <ul
+              class="sc-eDvSVe dtdIsR"
+            >
+              <li
+                class="sc-jSUZER kAqNzz"
+              >
+                <b>
+                  Native Name:
+                </b>
+                 
+                Brasil
+              </li>
+              <li
+                class="sc-jSUZER kAqNzz"
+              >
+                <b>
+                  Population
+                </b>
+                 
+                214047375
+              </li>
+              <li
+                class="sc-jSUZER kAqNzz"
+              >
+                <b>
+                  Region:
+                </b>
+                 
+                Amerika
+              </li>
+              <li
+                class="sc-jSUZER kAqNzz"
+              >
+                <b>
+                  Sub Region:
+                </b>
+                 
+                Latin Amerika
+              </li>
+              <li
+                class="sc-jSUZER kAqNzz"
+              >
+                <b>
+                  Capital:
+                </b>
+                 
+                Brasilia
+              </li>
+            </ul>
+            <ul
+              class="sc-eDvSVe dtdIsR"
+            >
+              <li
+                class="sc-jSUZER kAqNzz"
+              >
+                <b>
+                  Top Level Domain
+                </b>
+                 
+                <span>
+                  .br
+                </span>
+              </li>
+              <li
+                class="sc-jSUZER kAqNzz"
+              >
+                <b>
+                  Currency
+                </b>
+                 
+                <span>
+                  Brazilian real
+                   
+                </span>
+              </li>
+              <li
+                class="sc-jSUZER kAqNzz"
+              >
+                <b>
+                  Top Level Domain
+                </b>
+                 
+                <span>
+                  Portuguese
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div
+            class="sc-gKPRtg gzOaMP"
+          >
+            <b>
+              Border Countries
+            </b>
+            <div
+              class="sc-iBYQkv kygipb"
+            >
+              <span
+                class="sc-ftTHYK iZdCez"
+              >
+                Columbia
+              </span>
+              <span
+                class="sc-ftTHYK iZdCez"
+              >
+                Argentina
+              </span>
+              <span
+                class="sc-ftTHYK iZdCez"
+              >
+                Peru
+              </span>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="sc-bcXHqe kOecqs"
+    >
+      <img
+        alt="Brasil"
+        class="sc-gswNZR iDRsIg"
+        src="https://via.placeholder.com/300.png"
+      />
+      <div
+        data-testid="country-info"
+      >
+        <h1
+          class="sc-dkrFOg bkwYfw"
+        >
+          Brasil
+        </h1>
+        <div
+          class="sc-hLBbgP kCEmcI"
+        >
+          <ul
+            class="sc-eDvSVe dtdIsR"
+          >
+            <li
+              class="sc-jSUZER kAqNzz"
+            >
+              <b>
+                Native Name:
+              </b>
+               
+              Brasil
+            </li>
+            <li
+              class="sc-jSUZER kAqNzz"
+            >
+              <b>
+                Population
+              </b>
+               
+              214047375
+            </li>
+            <li
+              class="sc-jSUZER kAqNzz"
+            >
+              <b>
+                Region:
+              </b>
+               
+              Amerika
+            </li>
+            <li
+              class="sc-jSUZER kAqNzz"
+            >
+              <b>
+                Sub Region:
+              </b>
+               
+              Latin Amerika
+            </li>
+            <li
+              class="sc-jSUZER kAqNzz"
+            >
+              <b>
+                Capital:
+              </b>
+               
+              Brasilia
+            </li>
+          </ul>
+          <ul
+            class="sc-eDvSVe dtdIsR"
+          >
+            <li
+              class="sc-jSUZER kAqNzz"
+            >
+              <b>
+                Top Level Domain
+              </b>
+               
+              <span>
+                .br
+              </span>
+            </li>
+            <li
+              class="sc-jSUZER kAqNzz"
+            >
+              <b>
+                Currency
+              </b>
+               
+              <span>
+                Brazilian real
+                 
+              </span>
+            </li>
+            <li
+              class="sc-jSUZER kAqNzz"
+            >
+              <b>
+                Top Level Domain
+              </b>
+               
+              <span>
+                Portuguese
+              </span>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="sc-gKPRtg gzOaMP"
+        >
+          <b>
+            Border Countries
+          </b>
+          <div
+            class="sc-iBYQkv kygipb"
+          >
+            <span
+              class="sc-ftTHYK iZdCez"
+            >
+              Columbia
+            </span>
+            <span
+              class="sc-ftTHYK iZdCez"
+            >
+              Argentina
+            </span>
+            <span
+              class="sc-ftTHYK iZdCez"
+            >
+              Peru
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
