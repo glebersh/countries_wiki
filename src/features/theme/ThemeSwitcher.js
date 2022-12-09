@@ -17,7 +17,7 @@ const ThemeSwitcher = () => {
   const [theme, toggleTheme] = useTheme();
   return (
     <>
-      <ModeSwitcher onClick={toggleTheme}>
+      <ModeSwitcher onClick={toggleTheme} data-testid="theme-switcher">
         {theme === 'light' ? (
           <IoMoonOutline size="14px" />
         ) : (
