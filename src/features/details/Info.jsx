@@ -96,7 +96,7 @@ export const Info = (props) => {
     population,
     region,
     subregion,
-    topLevelDomain,
+    topLevelDomain = [],
     currencies = [],
     languages = [],
     borders = [],
@@ -143,7 +143,7 @@ export const Info = (props) => {
               ))}
             </ListItem>
             <ListItem>
-              <b>Top Level Domain</b>{' '}
+              <b>Languages</b>{' '}
               {languages.map((language) => (
                 <span key={language.name}>{language.name}</span>
               ))}

@@ -55,8 +55,8 @@ describe('Info component', () => {
 
   it('Info neighbors navigate', () => {
     render(<Info {...data} />);
-    userEvent.click(screen.getByText('Columbia'));
-    expect(screen.getByText('Columbia')).toBeInTheDocument();
-    expect(mockedUsedNavigate).toHaveBeenCalledWith('/countries_wiki/country/Columbia');
+    userEvent.click(screen.getByText('Argentina'));
+    expect(screen.getByText('Argentina')).toBeInTheDocument();
+    expect(mockedUsedNavigate).toHaveBeenCalledWith('/countries_wiki/country/Argentina');
   });
 });

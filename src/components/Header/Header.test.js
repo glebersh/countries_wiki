@@ -21,7 +21,7 @@ describe('Header component', () => {
     expect(screen.getByRole('link')).toBeInTheDocument();
   });
 
-  it('Card snapshot', () => {
+  it('Header snapshot', () => {
     const header = render(<BrowserRouter>
       <Header />
     </BrowserRouter>);

@@ -1,0 +1,288 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List component Info snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        data-testid="countries-list-container"
+      >
+        <section
+          class="sc-bcXHqe bglYcP"
+        >
+          <article
+            class="sc-gswNZR iquLsn"
+          >
+            <img
+              alt="Bhutan"
+              class="sc-dkrFOg eygKVp"
+              src="https://flagcdn.com/w320/bt.png"
+            />
+            <div
+              class="sc-hLBbgP lmooVC"
+            >
+              <h3
+                class="sc-eDvSVe dISRiD"
+              >
+                Bhutan
+              </h3>
+              <ul
+                class="sc-jSUZER hAhOSo"
+              >
+                <li
+                  class="sc-gKPRtg hRDTNX"
+                >
+                  <b>
+                    Population
+                    :
+                  </b>
+                   
+                  771 612
+                </li>
+                <li
+                  class="sc-gKPRtg hRDTNX"
+                >
+                  <b>
+                    Region
+                    :
+                  </b>
+                   
+                  Asia
+                </li>
+                <li
+                  class="sc-gKPRtg hRDTNX"
+                >
+                  <b>
+                    Capital
+                    :
+                  </b>
+                   
+                  Thimphu
+                </li>
+              </ul>
+            </div>
+          </article>
+          <article
+            class="sc-gswNZR iquLsn"
+          >
+            <img
+              alt="Bolivia (Plurinational State of)"
+              class="sc-dkrFOg eygKVp"
+              src="https://flagcdn.com/w320/bo.png"
+            />
+            <div
+              class="sc-hLBbgP lmooVC"
+            >
+              <h3
+                class="sc-eDvSVe dISRiD"
+              >
+                Bolivia (Plurinational State of)
+              </h3>
+              <ul
+                class="sc-jSUZER hAhOSo"
+              >
+                <li
+                  class="sc-gKPRtg hRDTNX"
+                >
+                  <b>
+                    Population
+                    :
+                  </b>
+                   
+                  11 673 029
+                </li>
+                <li
+                  class="sc-gKPRtg hRDTNX"
+                >
+                  <b>
+                    Region
+                    :
+                  </b>
+                   
+                  Americas
+                </li>
+                <li
+                  class="sc-gKPRtg hRDTNX"
+                >
+                  <b>
+                    Capital
+                    :
+                  </b>
+                   
+                  Sucre
+                </li>
+              </ul>
+            </div>
+          </article>
+        </section>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      data-testid="countries-list-container"
+    >
+      <section
+        class="sc-bcXHqe bglYcP"
+      >
+        <article
+          class="sc-gswNZR iquLsn"
+        >
+          <img
+            alt="Bhutan"
+            class="sc-dkrFOg eygKVp"
+            src="https://flagcdn.com/w320/bt.png"
+          />
+          <div
+            class="sc-hLBbgP lmooVC"
+          >
+            <h3
+              class="sc-eDvSVe dISRiD"
+            >
+              Bhutan
+            </h3>
+            <ul
+              class="sc-jSUZER hAhOSo"
+            >
+              <li
+                class="sc-gKPRtg hRDTNX"
+              >
+                <b>
+                  Population
+                  :
+                </b>
+                 
+                771 612
+              </li>
+              <li
+                class="sc-gKPRtg hRDTNX"
+              >
+                <b>
+                  Region
+                  :
+                </b>
+                 
+                Asia
+              </li>
+              <li
+                class="sc-gKPRtg hRDTNX"
+              >
+                <b>
+                  Capital
+                  :
+                </b>
+                 
+                Thimphu
+              </li>
+            </ul>
+          </div>
+        </article>
+        <article
+          class="sc-gswNZR iquLsn"
+        >
+          <img
+            alt="Bolivia (Plurinational State of)"
+            class="sc-dkrFOg eygKVp"
+            src="https://flagcdn.com/w320/bo.png"
+          />
+          <div
+            class="sc-hLBbgP lmooVC"
+          >
+            <h3
+              class="sc-eDvSVe dISRiD"
+            >
+              Bolivia (Plurinational State of)
+            </h3>
+            <ul
+              class="sc-jSUZER hAhOSo"
+            >
+              <li
+                class="sc-gKPRtg hRDTNX"
+              >
+                <b>
+                  Population
+                  :
+                </b>
+                 
+                11 673 029
+              </li>
+              <li
+                class="sc-gKPRtg hRDTNX"
+              >
+                <b>
+                  Region
+                  :
+                </b>
+                 
+                Americas
+              </li>
+              <li
+                class="sc-gKPRtg hRDTNX"
+              >
+                <b>
+                  Capital
+                  :
+                </b>
+                 
+                Sucre
+              </li>
+            </ul>
+          </div>
+        </article>
+      </section>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

@@ -4,7 +4,7 @@ import { Header } from './components/Header/Header';
 import { Main } from './components/Main';
 
 import { HomePage } from './pages/HomePage';
-import { Details } from './pages/DetailsPage';
+import { Details } from './pages/DetailsPage/DetailsPage';
 import { NotFound } from './pages/NotFound';
 
 function App() {

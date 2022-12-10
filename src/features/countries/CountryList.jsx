@@ -11,9 +11,9 @@ const CountriesList = () => {
 
   const [countries, { error, status }] = useCountries();
   return (
-    <>
-      {error && <h2>Can't fetch data</h2>}
-      {status === 'loading' && <h2>Loading...</h2>}
+    <div data-testid='countries-list-container'>
+      {error && <h2 data-testid='error-header'>Can't fetch data</h2>}
+      {status === 'loading' && <h2 data-testid='loading-header'>Loading...</h2>}
 
       {status === 'received' && (
         <List>
@@ -47,7 +47,7 @@ const CountriesList = () => {
           })}
         </List>
       )}
-    </>
+    </div>
   )
 };
 export default CountriesList;

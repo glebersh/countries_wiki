@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Header component Card snapshot 1`] = `
+exports[`Header component Header snapshot 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body
